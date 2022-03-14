@@ -1,9 +1,9 @@
 # Allowed ports for local LAN traffic
 
-21
-22
-53
-80
+21 FTP
+22 SSH
+53 DNS
+80 HTTP
 123
 161
 427
