@@ -1,7 +1,5 @@
-# Allowed ports for local LAN traffic
-#
-21 # FTP
-22 # SSH
+21
+22
 53
 80
 123
