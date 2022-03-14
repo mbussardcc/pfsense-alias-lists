@@ -1,4 +1,6 @@
-21	FTP
+# Allowed ports for local LAN traffic
+
+21
 22
 53
 80
