@@ -1,7 +1,7 @@
 # Allowed ports for local LAN traffic
-
-21
-22
+#
+21 # FTP
+22 # SSH
 53
 80
 123
