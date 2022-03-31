@@ -1,0 +1,7 @@
+443 HTTPS
+6789 Unifi mobile speed test
+8080 Device and app communication
+8443 GUI HTTPS port
+8843 HTTPS redirection
+8880 HTTP redirection
+27117 Local database communication

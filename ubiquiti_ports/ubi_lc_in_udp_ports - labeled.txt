@@ -1,0 +1,5 @@
+1900 L2 discoverable port
+3478 STUN
+5514 Remote syslog
+5656:5699 AP-EDU broadcasting
+10001 Device discovery
