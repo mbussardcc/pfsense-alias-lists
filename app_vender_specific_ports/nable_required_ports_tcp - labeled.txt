@@ -1,3 +1,5 @@
 80 HTTP
 443 HTTPS
+1234 Alt
+1235 Alt
 3377 Alt
